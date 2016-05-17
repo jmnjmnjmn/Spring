@@ -1,0 +1,33 @@
+2016-05-17 15:06:08,750 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caveofprogramming.spring.test:spring-tutorial-5:0.0.1-SNAPSHOT @ C:\Users\J\Documents\GitHub\Spring\spring-tutorial-21\pom.xml.
+2016-05-17 15:06:10,275 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-21/src/main/java
+2016-05-17 15:06:10,275 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-21/src/main/resources
+2016-05-17 15:06:10,276 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-21/src/test/java
+2016-05-17 15:06:10,277 [Worker-9] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-21/src/test/resources
+2016-05-17 15:06:10,408 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-05-17 15:06:19,581 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:06:19,590 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:06:19,594 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:06:19,595 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:06:35,796 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:06:35,801 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:06:35,802 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:06:35,803 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:06:41,370 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @109906ms
+2016-05-17 15:06:41,506 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.2.13.v20150730
+2016-05-17 15:06:41,552 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@74209992{/help,null,AVAILABLE}
+2016-05-17 15:06:41,576 [Start Help Server] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@4a0fced8{HTTP/1.1}{127.0.0.1:57816}
+2016-05-17 15:06:41,578 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @110114ms
+2016-05-17 15:11:11,719 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caveofprogramming.spring.test:spring-tutorial-5:0.0.1-SNAPSHOT @ C:\Users\J\Documents\GitHub\Spring\spring-tutorial-20\pom.xml.
+2016-05-17 15:11:11,857 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-20/src/main/java
+2016-05-17 15:11:11,858 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-20/src/main/resources
+2016-05-17 15:11:11,859 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-20/src/test/java
+2016-05-17 15:11:11,859 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-20/src/test/resources
+2016-05-17 15:11:11,923 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-17 15:11:12,452 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:11:12,454 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:11:12,455 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:11:12,457 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:12:51,934 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:12:51,940 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:12:51,941 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:12:51,943 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
