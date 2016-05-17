@@ -31,3 +31,23 @@
 2016-05-17 15:12:51,940 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2016-05-17 15:12:51,941 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2016-05-17 15:12:51,943 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:17:24,391 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caveofprogramming.spring.test:spring-tutorial-5:0.0.1-SNAPSHOT @ C:\Users\J\Documents\GitHub\Spring\spring-tutorial-22\pom.xml.
+2016-05-17 15:17:24,540 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-22/src/main/java
+2016-05-17 15:17:24,540 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-22/src/main/resources
+2016-05-17 15:17:24,541 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-22/src/test/java
+2016-05-17 15:17:24,541 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-22/src/test/resources
+2016-05-17 15:17:24,590 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-17 15:17:25,000 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:17:25,003 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:17:25,005 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:17:25,007 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:22:33,173 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.caveofprogramming.spring.test:spring-tutorial-5:0.0.1-SNAPSHOT @ C:\Users\J\Documents\GitHub\Spring\spring-tutorial-23\pom.xml.
+2016-05-17 15:22:33,313 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-23/src/main/java
+2016-05-17 15:22:33,315 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-23/src/main/resources
+2016-05-17 15:22:33,316 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tutorial-23/src/test/java
+2016-05-17 15:22:33,316 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-tutorial-23/src/test/resources
+2016-05-17 15:22:33,400 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-05-17 15:22:33,777 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:22:33,778 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-05-17 15:22:33,780 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-05-17 15:22:33,782 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
