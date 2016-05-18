@@ -8,7 +8,7 @@ public class Logger {
 
 	private ConsoleWriter consoleWriter;
 	private FileWriter fileWriter;
-	
+		
 	public void setConsoleWriter(ConsoleWriter writer) {
 		this.consoleWriter = writer;
 	}
